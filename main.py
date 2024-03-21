@@ -18,4 +18,4 @@ time.sleep(0.5)
 print(load3)
 time.sleep(0.5)
 
-print('opusti se rale')
+print('opusti se barcianac')
